@@ -28,6 +28,18 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography & Editing
+- description:
+  icon: desktop
+  icon_pack: fas
+  name: Microsoft
+- description:
+  icon: chart-bar
+  icon_pack: fas
+  name: Data Analysis
+- description:
+  icon: pen-nib
+  icon_pack: fas
+  name: Adobe Photoshop
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
