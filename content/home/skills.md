@@ -27,7 +27,7 @@ feature:
 - description:
   icon: camera-retro
   icon_pack: fas
-  name: Photography & Editing
+  name: Photography
 - description:
   icon: desktop
   icon_pack: fas
