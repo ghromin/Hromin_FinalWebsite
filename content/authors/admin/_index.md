@@ -6,7 +6,7 @@ title: Grace Hromin
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: History Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: blah blah blah.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Photography
+- Journalism
+- Historical Research
 
 # Education to show in About widget
 education:
@@ -28,9 +28,6 @@ education:
   - course: BA in History
     institution: George Wasington University
     year: 2022
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
