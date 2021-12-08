@@ -19,7 +19,7 @@ feature:
 - description:
   icon: i-cursor
   icon_pack: fas
-  name: News Writing & Reporting
+  name: Writing & Reporting
 - description:
   icon: globe-americas
   icon_pack: fas
@@ -27,7 +27,7 @@ feature:
 - description:
   icon: camera-retro
   icon_pack: fas
-  name: Photography 
+  name: Photography & Editing
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
