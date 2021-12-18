@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://www.gwhatchet.com/author/grace-hromin/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by Grace Hromin
   focal_point: Smart
 ---
