@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Senior Photo Editor
     company: GW Hatchet
-    company_url: ''
-    company_logo: 
+    company_url: 'https://www.gwhatchet.com/'
+    company_logo: my-logo
     location: Washington, DC
     date_start: '2021-03-01'
     date_end: ''
@@ -39,8 +39,8 @@ experience:
         
   - title: Waitstaff
     company: Barry's Do Me a Flavour
-    company_url: ''
-    company_logo: 
+    company_url: 'barrys do me a flavour'
+    company_logo: barrys-logo
     location: Beach Haven, NJ
     date_start: '2021-05-01'
     date_end: '2021-08-01'
