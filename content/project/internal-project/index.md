@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: History Projects
 summary: Some of Grace's favorite research projects.
 tags:
 - History
