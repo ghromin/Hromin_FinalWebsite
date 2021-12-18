@@ -1,7 +1,6 @@
 ---
-title: Published Photo Projects
-summary: An example of linking directly to an external project website using `external_link`.
-tags:
+title: Photos for GW Hatchet
+summary: Collection of published photo essays Grace has been apart of. More photos used in other stories.
 - Photo
 date: "2016-04-27T00:00:00Z"
 
@@ -9,6 +8,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://www.gwhatchet.com/author/grace-hromin/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by Grace Hromin for the GW Hatchet
   focal_point: Smart
 ---
