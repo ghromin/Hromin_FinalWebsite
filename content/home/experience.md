@@ -24,22 +24,22 @@ date_format: Jan 2006
 experience:
   - title: Senior Photo Editor
     company: GW Hatchet
-    company_url: 'https://www.gwhatchet.com/'
+    company_url: ''
     company_logo: 
     location: Washington, DC
-    date_start: '2021-03'
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Promoted from Assistant Photo Editor
         * Oversee all image publication 
-        * Manage all photo editong staff and photographers 
+        * Manage all photo editing staff and photographers 
         * Assist and collaborate with higher management
         
   - title: Waitstaff
     company: Barry's Do Me a Flavour
-    company_url: 'https://barrysdomeaflavor.com/'
+    company_url: ''
     company_logo: 
     location: Beach Haven, NJ
     date_start: '2021-05-01'
