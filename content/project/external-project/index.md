@@ -1,6 +1,6 @@
 ---
-title: Photos for GW Hatchet
-summary: Collection of published photo essays Grace has been apart of.
+title: Photos
+summary: Collection of published photo essays Grace has been apart of. 
 - Photo
 date: "2016-04-27T00:00:00Z"
 
