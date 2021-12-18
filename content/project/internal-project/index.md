@@ -1,8 +1,8 @@
 ---
 title: Internal Project
-summary: An example of using the in-built project page.
+summary: Some of Grace's favorite research projects.
 tags:
-- Deep Learning
+- History
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
