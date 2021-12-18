@@ -3,9 +3,14 @@ title: History Projects
 summary: Some of Grace's favorite research projects.
 tags:
 - History
+date: "2021-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+
+image:
+  caption:
+  focal_point: Smart
 
 links:
 url_code: ""
