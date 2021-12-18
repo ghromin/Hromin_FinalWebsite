@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Photo Project
+summary: Publsihed photo essay's featuring Grace's work.
 tags:
-- Demo
+- Photo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://www.gwhatchet.com/author/grace-hromin/
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
