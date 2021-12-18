@@ -64,10 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-Grace Hromin is a history student at the George Washington University.  
+Grace Hromin is a student at the George Washington University studying history, criminal justice, and journalism. She is expected to graduate this coming spring and plans to do something with her photojournalism career back home in New Jersey. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Grace has been working for the past three years for the GW Hatchet, George Washington’s independent student newspaper as a photographer and, more recently, a photo editor. Check out some of her recent projects below!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
