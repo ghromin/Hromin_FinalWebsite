@@ -56,5 +56,5 @@ experience:
     description: Greeted customers, took orders, served food, beverages and ice cream.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
