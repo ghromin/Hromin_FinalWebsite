@@ -39,7 +39,7 @@ experience:
         
   - title: Waitstaff
     company: Barry's Do Me a Flavour
-    company_url: 'barrys do me a flavour'
+    company_url: 'https://barrysdomeaflavor.com/'
     company_logo: barrys-logo
     location: Beach Haven, NJ
     date_start: '2021-05-01'
