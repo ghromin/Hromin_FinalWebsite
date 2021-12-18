@@ -45,16 +45,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-08-01'
     description: Greeted customers, took orders, served food, beverages and ice cream.
-    
-      - title: Waitstaff
-    company: Barry's Do Me a Flavour
-    company_url: 'barrys do me a flavour'
-    company_logo: barrys-logo
-    location: Beach Haven, NJ
-    date_start: '2021-05-01'
-    date_end: '2021-08-01'
-    description: Greeted customers, took orders, served food, beverages and ice cream.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
