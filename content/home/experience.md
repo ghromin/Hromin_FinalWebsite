@@ -28,7 +28,7 @@ experience:
     company_logo: my-logo
     location: Washington, DC
     date_start: '2021-03'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
@@ -42,8 +42,8 @@ experience:
     company_url: 'https://barrysdomeaflavor.com/'
     company_logo: barrys-logo
     location: Beach Haven, NJ
-    date_start: '2021-05'
-    date_end: '2021-08'
+    date_start: '2021-05-01'
+    date_end: '2021-08-01'
     description: s
 
 design:
