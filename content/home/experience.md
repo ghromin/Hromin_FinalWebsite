@@ -44,8 +44,8 @@ experience:
     location: Beach Haven, NJ
     date_start: '2021-05-01'
     date_end: '2021-08-01'
-    description: Greeted customers, took orders, served food, beverages and ice cream, and operated cash register to process cash
-and credit transactions
+    description: |2-
+    Greeted customers, took orders, served food, beverages and ice cream, and operated cash register to process cash and credit transactions
 
 design:
   columns: '2'
