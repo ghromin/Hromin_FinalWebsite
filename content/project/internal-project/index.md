@@ -28,4 +28,9 @@ slides: example
 
 The Historical Thesis is a project all Seniors in the History department must complete as a part of their degree. Check out Grace's thesis on the use of bishops in the 4th century here.
 
+https://drive.google.com/file/d/1PAvjRjD1KYoGxq6CK4YUWbGy4QCJdrjC/view?usp=sharing 
+
 Another paper Grace worked on this semester was about Richard Nixon and his policy in Vietnam.
+
+https://drive.google.com/file/d/14gMuh02Lb4umxxBmpa4lSyafzREf95tR/view?usp=sharing
+
